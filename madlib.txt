@@ -1,0 +1,7 @@
+print("Brennan is at home eating")
+input("choose a food")
+print("suddenly he starts choking. He goes to grab his")
+input("choose a noun")
+print("Sadly he")
+input("choose an adjective")
+print("died")
